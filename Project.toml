@@ -1,0 +1,6 @@
+name = "NonParametricEstimation"
+uuid = "c3b435d4-df0d-4030-af4d-55f8b4ff6708"  
+version = "0.1.0"
+authors = ["LAHBABI ABDELOUAHAB <abdolahbabi@gmail.com>"]
+
+[deps]
